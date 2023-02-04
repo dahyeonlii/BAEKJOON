@@ -1,7 +1,7 @@
 /**
  * @file 10926.c
  * @author Dahyeon Lee (https://github.com/dahyeonlii)
- * @brief BAEKJOON Algorithm 10869 using C
+ * @brief BAEKJOON Algorithm 10926 using C
  * @version 0.1
  * @date 2023-01-31
  * 

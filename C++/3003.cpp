@@ -1,7 +1,7 @@
 /**
  * @file 3003.cpp
  * @author Dahyeon Lee (https://github.com/dahyeonlii)
- * @brief BAEKJOON Algorithm 18108 using C++
+ * @brief BAEKJOON Algorithm 3003 using C++
  * @version 0.1
  * @date 2023-02-04
  * 
